@@ -1,0 +1,10 @@
+body
+{
+    background-image: url("Background.gif");
+    background-position: center; 
+}
+
+.pixel
+{
+    font-family: 'Pixelify Sans', sans-serif;
+}
